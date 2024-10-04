@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,203.86.236.179,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -585,3 +586,4 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,lgych.com
